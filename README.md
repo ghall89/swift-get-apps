@@ -12,6 +12,8 @@ A Swift package for retrieving a list of apps on a user's device, including name
 The `getInstalledApps()` function returns an array of installed apps using the following data struct that conforms to identifiable and hashable:
 
 ```
+struct InstalledApp
+
 id: UUID
 location: URL
 bundleId: String
