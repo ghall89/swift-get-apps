@@ -1,3 +1,5 @@
+This package is no longer being maintained. I suggest [ApplicationInspector](https://github.com/buresdv/ApplicationInspector) if you're looking for an alternative. 
+
 #  swift-get-apps
 
 ![GitHub License](https://img.shields.io/github/license/ghall89/swift-get-apps) ![GitHub Release](https://img.shields.io/github/v/release/ghall89/swift-get-apps) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fghall89%2Fswift-get-apps%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ghall89/swift-get-apps) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fghall89%2Fswift-get-apps%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ghall89/swift-get-apps)
